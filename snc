@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+
+from sncstart import Snc
+
+if __name__ == "__main__" : 
+    Snc().start()

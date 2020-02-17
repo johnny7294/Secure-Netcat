@@ -1,0 +1,5 @@
+-python3
+-python-argparse
+-socket
+-select
+-Pycryptodomex
